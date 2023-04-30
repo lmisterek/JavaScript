@@ -1,0 +1,65 @@
+body {
+	padding: 20px;
+}
+
+#container {
+
+	border-style:  solid;
+	height: 400px;
+	width:  1200px;
+	padding:  70px;
+
+}
+
+.btn {
+
+	margin: 8px;
+}
+
+.btn-card {
+
+	height: 2em;
+	background-color: black;
+	color:  white;
+	width: 100%;
+
+}
+
+.card {
+
+	width: 4.8rem;
+	height: 8rem;
+	align-items: center;
+
+}
+
+.card-img-top {
+
+	height: 3em;
+	margin: 1em;
+
+}
+
+.card-title {
+
+	text-align: center;
+	font-size: 1em;
+	padding: 10px;
+
+}
+
+.d-grid {
+	padding: 15px;
+}
+
+.empty-card {
+
+	height: 8rem;
+}
+
+.row {
+
+	padding-top: 2em;
+
+}
+
