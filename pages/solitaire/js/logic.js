@@ -8,7 +8,6 @@ function checkForPlay(layout, node, column) {
 
 	var lastCards = getLastCards(layout);
 	var nextCards = getNextCards(lastCards);
-	console.log(nextCards);
 
 	if ( checkForKing(node) ){
 		layout.columns.forEach(column => {
@@ -192,7 +191,6 @@ function cutColumn(array, cutIndex) {
 function getLastCards(layout) {
 	var lastCards = [];
 	var columns = layout.columns;
-	console.log(columns[0]);
 	for ( const column in columns) {
 		var currentCol = columns[column];
 		var index = currentCol.length - 1;
