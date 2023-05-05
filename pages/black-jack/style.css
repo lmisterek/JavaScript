@@ -1,0 +1,61 @@
+body {
+	padding: 20px;
+}
+
+#container {
+	height: 600px;
+	width:  1200px;
+	padding:  100px;
+}
+
+.btn {
+
+	margin: 8px;
+}
+
+.btn-card {
+
+	height: 2em;
+	background-color: black;
+	color:  white;
+	width: 100%;
+
+}
+
+.card {
+
+	width: 3rem;
+	height: 6rem;
+	align-items: center;
+}
+
+.card-img-top {
+
+	height: 3em;
+	margin: 1em;
+
+}
+
+.card-title {
+
+	text-align: center;
+	font-size: 3em;
+	padding: 10px;
+
+}
+
+.d-grid {
+	padding: 15px;
+}
+
+.empty-card {
+
+	height: 8rem;
+}
+
+.row {
+
+	padding-top: 2em;
+
+}
+
