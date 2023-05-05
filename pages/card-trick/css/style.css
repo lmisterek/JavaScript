@@ -1,0 +1,76 @@
+#brand {
+	color: white;
+	letter-spacing: -.03em;
+	font-size: 2.5rem;
+	margin-bottom: 1rem;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+#suits, #positions {
+	font-size: 75%;
+}
+
+/*body {
+	padding: 20px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+#container {
+
+	border-style:  solid;
+	height: 80%;
+	width:  80%;
+	padding:  70px;
+
+}
+
+.card {
+
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	width: 10rem;
+	height: 15rem;
+}
+
+.card-body {
+	font-size: 30px;
+	text-align: left;
+	padding-left: 10px;
+}
+
+.card_button {
+	margin:  5px;
+	height:  80px;
+	width:  35px;
+	background-color: #800000;
+}
+
+.card-img-top {
+	height: 4em;
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.card-in-deck {
+	width:  5%;
+}
+
+.card-title {
+	text-align: center;
+	font-size: 80px;
+	padding: 10px;
+
+}
+
+.row {
+
+	padding-top: 2em;
+
+}*/
+
